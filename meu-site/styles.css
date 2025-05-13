@@ -1,0 +1,26 @@
+img{
+    width: 300px;
+    height: 225px;
+    display: block;
+    margin: 20px 0px;
+}
+body{
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(34, 30, 30);
+}
+html, body{
+min-height: 100%;
+}
+p1, p2{
+ color:white
+}
+h1{
+    color: darkred;
+}
+#titulo{
+    text-align: center;
+    font-size: 300%;
+    color: red;
+}
